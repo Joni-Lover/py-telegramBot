@@ -1,0 +1,3 @@
+__author__ = 'joni'
+token = ''
+dialogflow_client_api_token = ''
